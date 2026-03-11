@@ -1,6 +1,6 @@
 # Muhamad Zhalfa Aulia Gammaila - Profil GitHub
 
-Selamat datang di profil GitHub saya! Saya M. Zhalfa Aulia, seorang profesional yang bekerja di berbagai bidang, mulai dari Video Editing ,Pengajaran ,Robotik ,Informatik ,Elektronik ,Video Editing
+Selamat datang di profil GitHub saya! Saya M. Zhalfa Aulia, seorang Amateur yang berkuliah di Jurusan Elektro saya memiliki keahlian, mulai dari Video Editing ,Pengajaran ,Robotik ,Informatik ,Elektronik ,Video Editing
 
 ## Tentang Saya
 
