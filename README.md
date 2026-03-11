@@ -5,7 +5,7 @@ Selamat datang di profil GitHub saya! Saya M. Zhalfa Aulia, seorang Amateur yang
 ## Tentang Saya
 
 - **Nama**: Muhamad Zhalfa Aulia Gammaila
-- **Pendidikan**: Sarjana Terapan Teknik Elektronika
+- **Jenjang Pendidikan Yang Sedang Ditempuh**: Sarjana Terapan Teknik Elektronika
 - **Spesialisasi**: Pengembangan perangkat lunak, Sistem Kendali,Sistem Embedded,Digital Signal Processing,PCB Making
 - **Proyek yang Sedang Dikerjakan**: 
   - Monitoring Ekosistem Menggunakan Drone Dengan Metode Citra Digital
