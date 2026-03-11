@@ -19,16 +19,6 @@ Selamat datang di profil GitHub saya! Saya M. Zhalfa Aulia, seorang Amateur yang
 - **Robotics & IOT**: Arduino IDE ,Blynk ,simulide
 - **Electronics Wiring/PCB Design**:  Altium ,Proteus
 
-## Proyek-Proyek Saya
-
-### 1. **AlphaClips**
-AlphaClips adalah aplikasi AI yang secara otomatis mengonversi video panjang menjadi beberapa klip pendek untuk platform media sosial. Saya bekerja untuk mengoptimalkan landing page, melakukan uji coba, dan menyiapkan peluncuran produk. 
-
-### 2. **Penelitian ConvLSTM untuk Prediksi Curah Hujan**
-Penelitian ini berfokus pada pengoptimalan model ConvLSTM untuk memprediksi curah hujan menggunakan data cuaca yang besar dan metode pembelajaran dalam.
-
-### 3. **Pemasaran Digital untuk Brand**
-Saya mengelola dan merancang kampanye pemasaran untuk berbagai merek, seperti FDR Tire, Icar/Chery, dan Polytron EV. Fokus saya adalah pada analisis performa dan pengoptimalan strategi konten untuk meningkatkan keterlibatan dan konversi di platform media sosial.
 
 ## Statistik GitHub
 
