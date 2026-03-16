@@ -22,7 +22,7 @@ Selamat datang di profil GitHub saya! Saya M. Zhalfa Aulia, seorang Amateur yang
 
 ## Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZapZap6&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Kontak
 
